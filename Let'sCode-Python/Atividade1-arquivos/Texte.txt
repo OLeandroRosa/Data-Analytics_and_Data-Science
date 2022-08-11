@@ -1,0 +1,3 @@
+Essa é uma linha que escrevi para testar o comando de escrita em Python 
+Essa é a Segunda linha que escrevi para testar o comando de escrita em Python 
+Essa é a Terceira linha que escrevi para testar o comando de escrita em Python 
